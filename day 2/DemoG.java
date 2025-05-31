@@ -11,7 +11,7 @@ public class DemoG {
                     System.out.print(" ");
                 }
             }
-            System.out.println();
+            System.out.println();         
         }
     }
 }

@@ -7,7 +7,7 @@ public class DemoA {
                 if(col==0&& row!=0||row==3||col==4&&row!=0||row==0&& col!=0&&col!=4){
                     System.out.print("*");
                 }
-                else{
+                else{                      
                     System.out.print(" ");
                 }
             }
